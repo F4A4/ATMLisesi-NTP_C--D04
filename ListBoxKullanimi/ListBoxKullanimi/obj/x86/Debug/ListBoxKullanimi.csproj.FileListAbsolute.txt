@@ -1,0 +1,21 @@
+C:\Users\ogr\Desktop\ListBoxKullanimi\ListBoxKullanimi\bin\Debug\ListBoxKullanimi.exe
+C:\Users\ogr\Desktop\ListBoxKullanimi\ListBoxKullanimi\bin\Debug\ListBoxKullanimi.pdb
+C:\Users\ogr\Desktop\ListBoxKullanimi\ListBoxKullanimi\obj\x86\Debug\ListBoxKullanimi.Form1.resources
+C:\Users\ogr\Desktop\ListBoxKullanimi\ListBoxKullanimi\obj\x86\Debug\ListBoxKullanimi.Properties.Resources.resources
+C:\Users\ogr\Desktop\ListBoxKullanimi\ListBoxKullanimi\obj\x86\Debug\ListBoxKullanimi.csproj.GenerateResource.Cache
+C:\Users\ogr\Desktop\ListBoxKullanimi\ListBoxKullanimi\obj\x86\Debug\ListBoxKullanimi.exe
+C:\Users\ogr\Desktop\ListBoxKullanimi\ListBoxKullanimi\obj\x86\Debug\ListBoxKullanimi.pdb
+C:\Users\ogr\Desktop\20120926\ListBoxKullanimi\ListBoxKullanimi\obj\x86\Debug\ListBoxKullanimi.exe
+C:\Users\ogr\Desktop\20120926\ListBoxKullanimi\ListBoxKullanimi\obj\x86\Debug\ListBoxKullanimi.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\4.GÜN\ListBoxKullanimi\ListBoxKullanimi\obj\x86\Debug\ListBoxKullanimi.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\4.GÜN\ListBoxKullanimi\ListBoxKullanimi\obj\x86\Debug\ListBoxKullanimi.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\4.GÜN\ListBoxKullanimi\ListBoxKullanimi\bin\Debug\ListBoxKullanimi.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\4.GÜN\ListBoxKullanimi\ListBoxKullanimi\bin\Debug\ListBoxKullanimi.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\4.GÜN\ListBoxKullanimi\ListBoxKullanimi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\4.GÜN\ListBoxKullanimi\ListBoxKullanimi\obj\x86\Debug\ListBoxKullanimi.Form1.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\4.GÜN\ListBoxKullanimi\ListBoxKullanimi\obj\x86\Debug\ListBoxKullanimi.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\4.GÜN\ListBoxKullanimi\ListBoxKullanimi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\4.GÜN\ListBoxKullanimi\ListBoxKullanimi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\4.GÜN\ListBoxKullanimi\ListBoxKullanimi\obj\x86\Debug\ListBoxKullanimi.exe
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\4.GÜN\ListBoxKullanimi\ListBoxKullanimi\obj\x86\Debug\ListBoxKullanimi.exe
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\4.GÜN\ListBoxKullanimi\ListBoxKullanimi\obj\x86\Debug\ListBoxKullanimi.pdb

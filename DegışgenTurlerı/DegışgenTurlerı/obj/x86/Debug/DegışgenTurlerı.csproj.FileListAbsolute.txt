@@ -1,0 +1,21 @@
+C:\dekstop\DegışgenTurlerı\DegışgenTurlerı\bin\Debug\DegışgenTurlerı.exe
+C:\dekstop\DegışgenTurlerı\DegışgenTurlerı\bin\Debug\DegışgenTurlerı.pdb
+C:\dekstop\DegışgenTurlerı\DegışgenTurlerı\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dekstop\DegışgenTurlerı\DegışgenTurlerı\obj\x86\Debug\DegışgenTurlerı.Form1.resources
+C:\dekstop\DegışgenTurlerı\DegışgenTurlerı\obj\x86\Debug\DegışgenTurlerı.Properties.Resources.resources
+C:\dekstop\DegışgenTurlerı\DegışgenTurlerı\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\dekstop\DegışgenTurlerı\DegışgenTurlerı\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\dekstop\DegışgenTurlerı\DegışgenTurlerı\obj\x86\Debug\DegışgenTurlerı.exe
+C:\dekstop\DegışgenTurlerı\DegışgenTurlerı\obj\x86\Debug\DegışgenTurlerı.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\4.GÜN\DegışgenTurlerı\DegışgenTurlerı\obj\x86\Debug\DegışgenTurlerı.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\4.GÜN\DegışgenTurlerı\DegışgenTurlerı\obj\x86\Debug\DegışgenTurlerı.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\4.GÜN\DegışgenTurlerı\DegışgenTurlerı\bin\Debug\DegışgenTurlerı.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\4.GÜN\DegışgenTurlerı\DegışgenTurlerı\bin\Debug\DegışgenTurlerı.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\4.GÜN\DegışgenTurlerı\DegışgenTurlerı\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\4.GÜN\DegışgenTurlerı\DegışgenTurlerı\obj\x86\Debug\DegışgenTurlerı.Form1.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\4.GÜN\DegışgenTurlerı\DegışgenTurlerı\obj\x86\Debug\DegışgenTurlerı.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\4.GÜN\DegışgenTurlerı\DegışgenTurlerı\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\4.GÜN\DegışgenTurlerı\DegışgenTurlerı\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\4.GÜN\DegışgenTurlerı\DegışgenTurlerı\obj\x86\Debug\DegışgenTurlerı.exe
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\4.GÜN\DegışgenTurlerı\DegışgenTurlerı\obj\x86\Debug\DegışgenTurlerı.exe
+C:\Users\lenovo\Desktop\Bilişim Teknolojileri\C#-NTP\NTP Dersinde Yaptığımız Çalışmalar\4.GÜN\DegışgenTurlerı\DegışgenTurlerı\obj\x86\Debug\DegışgenTurlerı.pdb
